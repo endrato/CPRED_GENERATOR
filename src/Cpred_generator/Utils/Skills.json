@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Concentration",
+    "category": "WILL"
+  },
+  {
+    "name": "Conceal/Reveal Object",
+    "category": "INT"
+  },
+  {
+    "name": "Lip Reading",
+    "category": "INT"
+  },
+  {
+    "name": "Perception",
+    "category": "INT"
+  },
+  {
+    "name": "Tracking",
+    "category": "INT"
+  },
+  {
+    "name": "Athletics",
+    "category": "DEX"
+  },
+  {
+    "name": "Contortionist",
+    "category": "DEX"
+  },
+  {
+    "name": "Dance",
+    "category": "DEX"
+  },
+  {
+    "name": "Endurance",
+    "category": "WILL"
+  },
+  {
+    "name": "Resist Torture/Drugs",
+    "category": "WILL"
+  },
+  {
+    "name": "Stealth",
+    "category": "DEX"
+  },
+  {
+    "name": "Drive Land Vehicle",
+    "category": "REF"
+  },
+  {
+    "name": "Pilot Air Vehicle",
+    "category": "REF",
+    "x2": true
+  },
+  {
+    "name": "Pilot Sea Vehicle",
+    "category": "REF"
+  },
+  {
+    "name": "Riding",
+    "category": "REF"
+  },
+  {
+    "name": "Accounting",
+    "category": "INT"
+  },
+  {
+    "name": "Animal Handling",
+    "category": "INT"
+  },
+  {
+    "name": "Bureaucracy",
+    "category": "INT"
+  },
+  {
+    "name": "Business",
+    "category": "INT"
+  },
+  {
+    "name": "Composition",
+    "category": "INT"
+  },
+  {
+    "name": "Criminology",
+    "category": "INT"
+  },
+  {
+    "name": "Cryptography",
+    "category": "INT"
+  },
+  {
+    "name": "Deduction",
+    "category": "INT"
+  },
+  {
+    "name": "Education",
+    "category": "INT"
+  },
+  {
+    "name": "Gamble",
+    "category": "INT"
+  },
+  {
+    "name": "Language",
+    "category": "INT"
+  },
+  {
+    "name": "Library Search",
+    "category": "INT"
+  },
+  {
+    "name": "Local Expert",
+    "category": "INT"
+  },
+  {
+    "name": "Science",
+    "category": "INT"
+  },
+  {
+    "name": "Tactics",
+    "category": "INT"
+  },
+  {
+    "name": "Wilderness Survival",
+    "category": "INT"
+  },
+  {
+    "name": "Brawling",
+    "category": "DEX"
+  },
+  {
+    "name": "Evasion",
+    "category": "DEX"
+  },
+  {
+    "name": "Martial Arts",
+    "category": "DEX",
+    "x2": true
+  },
+  {
+    "name": "Melee Weapon",
+    "category": "DEX"
+  },
+  {
+    "name": "Acting",
+    "category": "COOL"
+  },
+  {
+    "name": "Play Instrument",
+    "category": "TECH"
+  },
+  {
+    "name": "Archery",
+    "category": "REF"
+  },
+  {
+    "name": "Autofire",
+    "category": "REF",
+    "x2": true
+  },
+  {
+    "name": "Handgun",
+    "category": "REF"
+  },
+  {
+    "name": "Heavy Weapons",
+    "category": "REF",
+    "x2": true
+  },
+  {
+    "name": "Shoulder Arms",
+    "category": "REF"
+  },
+  {
+    "name": "Bribery",
+    "category": "COOL"
+  },
+  {
+    "name": "Conversation",
+    "category": "EMP"
+  },
+  {
+    "name": "Human Perception",
+    "category": "EMP"
+  },
+  {
+    "name": "Interrogation",
+    "category": "COOL"
+  },
+  {
+    "name": "Persuasion",
+    "category": "COOL"
+  },
+  {
+    "name": "Personal Grooming",
+    "category": "COOL"
+  },
+  {
+    "name": "Streetwise",
+    "category": "COOL"
+  },
+  {
+    "name": "Trading",
+    "category": "COOL"
+  },
+  {
+    "name": "Wardrobe & Style",
+    "category": "COOL"
+  },
+  {
+    "name": "Air Vehicle Tech",
+    "category": "TECH"
+  },
+  {
+    "name": "Basic Tech",
+    "category": "TECH"
+  },
+  {
+    "name": "Cybertech",
+    "category": "TECH"
+  },
+  {
+    "name": "Demolitions",
+    "category": "TECH"
+  },
+  {
+    "name": "Electronics/Security Tech",
+    "category": "TECH"
+  },
+  {
+    "name": "First Aid",
+    "category": "TECH"
+  },
+  {
+    "name": "Forgery",
+    "category": "TECH"
+  },
+  {
+    "name": "Land Vehicle Tech",
+    "category": "TECH"
+  },
+  {
+    "name": "Paint/Draw/Sculpt",
+    "category": "TECH"
+  },
+  {
+    "name": "Paramedic",
+    "category": "TECH"
+  },
+  {
+    "name": "Photography/Film",
+    "category": "TECH"
+  },
+  {
+    "name": "Pick Lock",
+    "category": "TECH"
+  },
+  {
+    "name": "Pick Pocket",
+    "category": "TECH"
+  },
+  {
+    "name": "Sea Vehicle Tech",
+    "category": "TECH"
+  },
+  {
+    "name": "Weaponstech",
+    "category": "TECH"
+  }
+]
